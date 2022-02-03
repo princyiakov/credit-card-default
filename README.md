@@ -6,6 +6,7 @@ predict if the next month payment will be missed by the person or not .
 <!-- toc -->
 
 - [More About The Project](#more-about-the-project)
+  - [Notebook File](#notebook-file)
   - [Understanding Data](#understanding-data)
   - [How did we solve the issue](#how-did-we-solve-the-issue)
      - [Data Cleaning](#data-cleaning)
@@ -25,6 +26,9 @@ predict if the next month payment will be missed by the person or not .
 
 ## More About The Project
 Let us understand in detail about the data
+
+### Notebook File 
+https://github.com/princyiakov/credit-card-default/blob/main/credit-card-default.ipynb
 
 ### Understanding Data 
 There are 25 variables
